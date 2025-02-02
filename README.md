@@ -1,4 +1,4 @@
-Banking Application REST API
+**Banking Application REST API**
 
 *In this project, I have built a REST API for a banking application using Spring Boot, Hibernate, and MySQL.
 
